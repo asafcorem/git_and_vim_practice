@@ -1,9 +1,1 @@
-sdfkjasfljsflsdfsdf
- 
-	sdfsd
-		ssds
-
-            sdfsd
-sdddd
-
-ddd
+print("hi ai")
